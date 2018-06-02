@@ -6,4 +6,6 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-![smartphone](../../afbeeldingen/phone1.png)
+<img src="../../../afbeeldingen/phone1.png" class="img-fluid" alt="smartphone">
+
+<img src="../../../afbeeldingen/phone2.png" class="img-fluid" alt="smartphone">

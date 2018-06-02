@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
+<img src="../../../afbeeldingen/wireflowphone.png" class="img-fluid" alt="wireflowphone">

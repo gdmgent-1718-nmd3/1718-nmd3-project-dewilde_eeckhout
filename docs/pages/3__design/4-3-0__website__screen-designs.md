@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-![desktop](../../afbeeldingen/desk1.png)
+<img src="../../../afbeeldingen/desk2.png" class="img-fluid" alt="desktop">
