@@ -31,6 +31,7 @@ h4{
 p{
     font-family: 'News Cycle', sans-serif;
     font-size: 18px;
+    margin-bottom:5px;
 }
 .container{
     padding-left: 75px;
@@ -92,4 +93,106 @@ p{
 .backgroundwatch{
     background: rgb(242,123,31);
     background: linear-gradient(90deg, rgba(242,123,31,1) 0%, rgba(216,21,130,1) 100%);
+}
+
+.kleur1{
+    background:#454545;
+    color: white;
+    font-family: 'News Cycle', sans-serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.kleur2{
+    background:#EBEBEB;
+    font-family: 'News Cycle', sans-serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.kleur3{
+    background:#F27B1F;
+    font-family: 'News Cycle', sans-serif;
+    font-size: 18px;
+    color:white;
+    margin-bottom: 20px;
+}
+
+.kleur4{
+    background:#D81582;
+    font-family: 'News Cycle', sans-serif;
+    font-size: 18px;
+    color:white;
+    margin-bottom: 20px;
+}
+
+.kleur5{
+    font-family: 'News Cycle', sans-serif;
+    font-size: 18px;
+    color:white;
+    background: rgb(242,123,31);
+    background: linear-gradient(90deg, rgba(242,123,31,1) 0%, rgba(216,21,130,1) 100%);
+    margin-bottom: 20px;
+}
+
+.gadient{
+    background: linear-gradient(90deg, rgba(242,123,31,1) 0%, rgba(216,21,130,1) 100%);
+}
+
+.button_example{
+    border:0px solid #d6780d; 
+    -webkit-border-radius: 7px; 
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    font-size:14px;
+    font-family:News cycle, sans-serif;
+    padding: 3px 12px 5px 12px; 
+    text-decoration:none; 
+    display:inline-block; 
+    color: #FFFFFF;
+    background-color: #F29429; 
+    background-image: -webkit-gradient(linear, left, right from(#F29429), to(#FC1998));
+    background-image: -webkit-linear-gradient(left, #F29429, #FC1998);
+    background-image: -moz-linear-gradient(left, #F29429, #FC1998);
+    background-image: -ms-linear-gradient(left, #F29429, #FC1998);
+    background-image: -o-linear-gradient(left, #F29429, #FC1998);
+    background-image: linear-gradient(to right #F29429, #FC1998);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#F29429, endColorstr=#FC1998);
+}
+
+.button_example:hover{
+    border:0px solid #ab600a;
+    background-color: #FC1998; background-image: -webkit-gradient(linear, left, right, from(#FC1998), to(#F29429));
+    background-image: -webkit-linear-gradient(left, #FC1998, #F29429);
+    background-image: -moz-linear-gradient(left, #FC1998, #F29429);
+    background-image: -ms-linear-gradient(left, #FC1998, #F29429);
+    background-image: -o-linear-gradient(left, #FC1998, #F29429);
+    background-image: linear-gradient(to right #FC1998, #F29429);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#FC1998, endColorstr=#F29429);
+}
+
+.button_different{
+    border:1px solid #FC1998; 
+    -webkit-border-radius: 7px; 
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    font-size:14px;
+    font-family:News cycle, sans-serif; 
+    padding: 3px 12px 5px 12px; 
+    text-decoration:none; 
+    display:inline-block; 
+    color: #FC1998;
+    background-color:white;
+}
+
+.button_different:hover{
+    border:0px solid #FC1998; 
+    -webkit-border-radius: 7px; 
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    font-size:14px;
+    font-family:News cycle, sans-serif; 
+    padding: 3px 12px 5px 12px; 
+    text-decoration:none; 
+    display:inline-block; 
+    color: #ffffff;
+    background-color:#FC1998;
 }
