@@ -6,14 +6,14 @@ published: true
 # ─────────────────────
 title: Technische Analyse
 ---
-### Bestaande smartwatch en smartphone kiezen
+## Bestaande smartwatch en smartphone kiezen
 
 - Apple smartwatch
 - iPhone 6S
 
-### Onderzoek naar technische mogelijkheden (knoppen, sensoren)
+## Onderzoek naar technische mogelijkheden (knoppen, sensoren)
 
-#### Watch
+### Watch
 
 Druk op de Digital Crown of draai eraan
 * Druk om de wijzerplaat of het beginscherm te zien. 
@@ -30,7 +30,7 @@ U kunt de Apple Watch met enkele gebaren bedienen. Wanneer u het scherm aanraakt
 - Slepen: sleep met uw vinger over het scherm om te scrollen of een schuifknop aan te passen.
 - Vegen: veeg omhoog, omlaag, naar links of rechts om verschillende schermen weer te geven.
 
-#### Phone
+### Phone
 iPhone 6s
 
 **Display**
@@ -67,8 +67,8 @@ iPhone 6s
 * Nabijheidssensor
 * Omgevingslichtsensor
 
-### Ontwerprichtlijnen
-- strak
-- veel witgebruik
-- twee hoofdkleuren (magenta en oranje)
-- bruikbaar voor ouderen
+## Ontwerprichtlijnen
+- Strak
+- Veel witgebruik
+- Twee hoofdkleuren (magenta en oranje)
+- Bruikbaar voor ouderen

@@ -6,11 +6,13 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
-![idea1](../../afbeeldingen/idea1.jpg)
-![idea2](../../afbeeldingen/idea2.jpg)
-![idea3](../../afbeeldingen/idea3.jpg)
-![idea4](../../afbeeldingen/idea4.jpg)
-![idea5](../../afbeeldingen/idea5.jpg)
-![idea7](../../afbeeldingen/idea6.jpg)
-![idea8](../../afbeeldingen/idea7.jpg)
-![idea9](../../afbeeldingen/idea8.jpg)
+<div class="col-4">
+    <img src="../../afbeeldingen/idea1.jpg" class="img-fluid" alt="idea">
+    <img src="../../afbeeldingen/idea2.jpg" class="img-fluid" alt="idea">
+    <img src="../../afbeeldingen/idea3.jpg" class="img-fluid" alt="idea">
+    <img src="../../afbeeldingen/idea4.jpg" class="img-fluid" alt="idea">
+    <img src="../../afbeeldingen/idea5.jpg" class="img-fluid" alt="idea">
+    <img src="../../afbeeldingen/idea6.jpg" class="img-fluid" alt="idea">
+    <img src="../../afbeeldingen/idea7.jpg" class="img-fluid" alt="idea">
+    <img src="../../afbeeldingen/idea8.jpg" class="img-fluid" alt="idea">
+</div>
