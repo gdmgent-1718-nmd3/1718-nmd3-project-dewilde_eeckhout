@@ -7,14 +7,15 @@ published: true
 title: Briefing
 ---
 
-Opdracht
---------
+## Briefing
+Voor deze opdacht was het de bedoeling dat we een een design voor een app maakten. De app dient om een museumbezoek aangenamer en functioneler te maken, het moest dus een toegevoegde waarde zijn. Het museum wat we wouden "upgraden" mochten we zelf kiezen. Taike en ik kozen hiervoor "Het Rijksmuseum" in Amsterdam.
 
-Teamleden
----------
+## Teamleden
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Taike De Wilde
+ - Margot Eeckhout
 
-Gekozen Museum
---------------
+
+## Gekozen Museum
+
+Het Rijksmuseum

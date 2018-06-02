@@ -10,13 +10,14 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+$orange:  #F27B1F !default;
+$primary: $orange;
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Lato|News+Cycle');
 
-$font-family-base: Merriweather, serif;
+$font-family-base: 'News Cycle', sans-serif;
+

@@ -6,9 +6,8 @@ permalink: home
 # ─────────────────────
 title: Opdracht NMD-III
 ---
+## Wie zijn we?
 
-Wie zijn we?
-------------
+ - Taike De Wilde, 2CMO-PD
+ - Margot Eeckhout, 2CMO-PD
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
