@@ -11,3 +11,4 @@ title: Opdracht NMD-III
  - Taike De Wilde, 2CMO-PD
  - Margot Eeckhout, 2CMO-PD
 
+<img src="../../../afbeeldingen/wiezijnwe.jpg" class="img-fluid" alt="wie zijn we">
