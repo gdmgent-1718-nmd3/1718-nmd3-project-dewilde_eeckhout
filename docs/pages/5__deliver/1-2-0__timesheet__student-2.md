@@ -6,6 +6,8 @@ published: true
 # ─────────────────────
 title: Student 2
 ---
+## Margot
+
 {%- comment %}
 Vul de timesheet aan in het bestand `_data/timesheet-2.yml`
 {%- endcomment %}
