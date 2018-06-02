@@ -4,7 +4,7 @@ $nav-link-indentation-base: 3rem;
 $nav-link-indentation-level: 1rem;
 
 .gdm-nav {
-  background-color: $dark;
+  background-color: #1c1d1f;
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
 }
@@ -22,7 +22,7 @@ $nav-link-indentation-level: 1rem;
     color: $light;
   }
   &.disabled {
-
+    color: #b6bcc1;
   }
 }
 
