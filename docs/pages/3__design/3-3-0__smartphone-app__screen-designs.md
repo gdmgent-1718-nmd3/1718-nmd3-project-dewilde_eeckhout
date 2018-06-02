@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+![smartphone](../../afbeeldingen/phone1.png)

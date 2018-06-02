@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+![desktop](../../afbeeldingen/desk1.png)
