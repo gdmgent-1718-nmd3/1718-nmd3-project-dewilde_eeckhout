@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+<img src="../../../afbeeldingen/watch4.png" class="img-fluid" alt="smartwatch">
 
 <img src="../../../afbeeldingen/watch1.png" class="img-fluid" alt="smartwatch">
 
