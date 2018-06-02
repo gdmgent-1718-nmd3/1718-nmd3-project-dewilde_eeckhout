@@ -6,6 +6,9 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-![smartwatch1](../../afbeeldingen/watch1.png)
-![smartwatch2](../../afbeeldingen/watch2.png)
-![smartwatch3](../../afbeeldingen/watch3.png)
+
+<img src="../../../afbeeldingen/watch1.png" class="img-fluid" alt="smartwatch">
+
+<img src="../../../afbeeldingen/watch2.png" class="img-fluid" alt="smartwatch">
+
+<img src="../../../afbeeldingen/watch3.png" class="img-fluid" alt="smartwatch">

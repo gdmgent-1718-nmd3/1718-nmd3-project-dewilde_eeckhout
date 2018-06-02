@@ -6,6 +6,4 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-![wireflowwatch](../../../afbeeldingen/wireflowwatch.png)
-
 <img src="../../../afbeeldingen/wireflowwatch.png" class="img-fluid" alt="wireflowwatch">

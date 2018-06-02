@@ -8,10 +8,11 @@ title: Style Tiles
 ---
 
 ## Gekozen
-![styletile3](../../afbeeldingen/st3.png)
+<img src="../../afbeeldingen/st3.png" class="img-fluid" alt="gekozen">
 
 ## Alternatief 1
-![styletile1](../../afbeeldingen/st1.png)
+<img src="../../afbeeldingen/st1.png" class="img-fluid" alt="style tile 1">
+
 
 ## Alternatief 2
-![styletile2](../../afbeeldingen/st2.png)
+<img src="../../afbeeldingen/st2.png" class="img-fluid" alt="style tile 2">
