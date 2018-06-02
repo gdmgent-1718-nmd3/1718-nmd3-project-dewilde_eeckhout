@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-![idea1](../../afbeeldingen/wireflowwatch.png)
+![wireflowwatch](../../../afbeeldingen/wireflowwatch.png)
