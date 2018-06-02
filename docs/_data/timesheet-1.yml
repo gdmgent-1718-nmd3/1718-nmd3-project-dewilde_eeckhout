@@ -3,26 +3,83 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 4.50
+  task: Museumbezoek
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 1.0
+  task: Vragen gesteld
+-
+  time: 5.50
+  task: Analyse gemaakt
+-
+  time: 3.50
+  task: Concept uitgewerkt
+-
+  time: 3.50
+  task: Journey maps opgesteld
+-
+  time: 3.75
+  task: Journey maps opgemaakt in InDesign
+-
+  time: 3.50
+  task: Technische analyse gemaakt
+-
+  time: 3.0
+  task: Ideaboard
+-
+  time: 2.75
+  task: Style tiles
+-
+  time: 2.25
+  task: Pitch voorbereid
 -
   time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  task: Wireflow smartwatch
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 0.50
+  task: Paper prototype smartwatch
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1.0
+  task: Gebruikerstest smartwatch
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 4.50
+  task: Screendesigns smartwatch
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Prototype smartwatch uitwerken
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 3.50
+  task: Wireflow smartphone
+-
+  time: 2.50
+  task: Gebruikerstest smartphone
+-
+  time: 5.75
+  task: Screendesigns smartphone
+-
+  time: 0.50
+  task: Prototype smartphone uitwerken
+-
+  time: 1.0
+  task: Sitemap website
+-
+  time: 3.75
+  task: Wireframes website
+-
+  time: 3.0
+  task: Screen designs website
+-
+  time: 2.0
+  task: Prototype website uitwerken
+-
+  time: 2.50
+  task: Digital style guide
+-
+  time: 7.75
+  task: Laatste aanpassingen na feedback
+-
+  time: 2.0
+  task: Productiedossier coderen
+-
+  time: 3.0
+  task: Presentatie examen gemaakt

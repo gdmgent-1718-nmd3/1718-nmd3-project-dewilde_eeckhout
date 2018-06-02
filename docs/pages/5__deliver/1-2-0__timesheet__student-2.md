@@ -4,9 +4,8 @@ permalink: deliver/timesheets/student-2/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Student 2
+title: Margot Eeckhout
 ---
-## Margot
 
 {%- comment %}
 Vul de timesheet aan in het bestand `_data/timesheet-2.yml`
