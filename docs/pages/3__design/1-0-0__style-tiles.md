@@ -7,11 +7,11 @@ published: true
 title: Style Tiles
 ---
 
-Gekozen
--------
+## Gekozen
+![styletile3](../../afbeeldingen/st3.png)
 
-Alternatief 1
--------------
+## Alternatief 1
+![styletile1](../../afbeeldingen/st1.png)
 
-Alternatief 2
--------------
+## Alternatief 2
+![styletile2](../../afbeeldingen/st2.png)
