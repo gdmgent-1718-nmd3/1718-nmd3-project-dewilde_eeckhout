@@ -13,6 +13,7 @@ title: Opdracht NMD-III
 
 <img src="afbeeldingen/margottaike.jpg" class="img-fluid" alt="wij">
 
+
 <div class="postscriptum">
 Post scriptum: wij weten niet wie die man op de foto is, maar we denken dat hij de app zeer handig zou vinden, hij lijkt namelijk een beetje verdwaald.
 </div>
