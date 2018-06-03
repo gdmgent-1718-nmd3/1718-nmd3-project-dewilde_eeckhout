@@ -4,7 +4,7 @@ permalink: deliver/timesheets/student-1/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Taike De Wilde
+title: Taike
 ---
 
 {%- comment %}

@@ -4,7 +4,7 @@ permalink: deliver/timesheets/student-2/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Margot Eeckhout
+title: Margot
 ---
 
 {%- comment %}
