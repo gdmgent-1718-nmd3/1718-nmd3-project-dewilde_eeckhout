@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+<img src="../../../afbeeldingen/wireflowdesk.png" class="img-fluid" alt="wireflowdesk">

@@ -14,7 +14,7 @@ title: Analyse
 Voor ons is het een jaarlijkste uitstap om eens naar het rijksmuseum te komen, we kunnen het niet beu gezien worden. Dit is zeker ons favoriete museum.
 
 **Wat spreekt je het meeste aan?** <br>
-Oh, alles. We kunnen hier blijven rondlopen zonder ons te vervelen. Er hangen zo veel mooie kunstwerken en elk jaar zien we kunst die we nog niet gezien hebben. We houden vooral van die klassieke en oude kunst
+Oh, alles. We kunnen hier blijven rondlopen zonder ons te vervelen. Er hangen zo veel mooie kunstwerken en elk jaar zien we kunst die we nog niet gezien hebben. We houden vooral van die klassieke en oude kunst.
 
 **Hoeveel tijd besteed je hier ongeveer?**<br>
 We komen speciaal naar Amsterdam voor het museum, dus we blijven hier zeker de volledige middag, daarna gaan we nog lekker iets gaan eten in het centrum.
@@ -44,7 +44,7 @@ Ik denk dat we hier vooral zijn om te leren over kunstgeschiedenis en de grootst
 We zullen rond de 2-3uur rond gelopen hebben hier, we kregen een lange uitleg bij bepaalde kunstwerken.
 
 **Is dit de eerste keer dat je het museum bezoekt?** <br>
-Voor mij wel ja
+Voor mij wel ja.
 
 **Van waar kom je?** <br>
 Antwerpen
@@ -61,11 +61,11 @@ Via deze school uitstap nu
 Het totaal gewoon, het is een super leuk museum en het eten in het café is ook super lekker.
 
 **Wat spreekt jou het meeste aan?** <br>
-De kunst die te zien is is wel erg verschillend, en dat maakt het nog leuker om naar dit museum te gaan
+De kunst die te zien is is wel erg verschillend, en dat maakt het nog leuker om naar dit museum te gaan.
 
 **Hoeveel tijd besteedt u hier ongeveer?** <br>
 Het is erg groot, dus je kan het wel verdelen in twee keer langskomen. Als je in 1 keer het hele museum door wilt, bedenk dan wel dat je van heel vroeg tot heel laat er in moet zijn om het te redden en er dan doodmoe van terugkomt.
-Ik blij meestal een voormiddag of namiddag
+Ik blij meestal een voormiddag of namiddag.
 
 **Is dit de eerste keer dat je het museum bezoekt?** <br>
 Oh nee zeker niet, ik kan zelfs niet meer bij houden de hoeveelste keer het is dat ik hier ben.
@@ -85,13 +85,13 @@ Ik ben van Amsterdam zelf, dus ik kom hier al van kleins af aan.
 We zijn op een citytrip en we willen zo veel mogelijk cultuur zien. We hebben een I AM Amsterdam pas om onze dagen te vullen.
 
 **Wat spreekt jullie het meeste aan?** <br>
-We zijn fan van kunst in het algemeen, dus we doen meerdere musea in onze trip. In dit museum spreekt ons vooral de iconische werken aan
+We zijn fan van kunst in het algemeen, dus we doen meerdere musea in onze trip. In dit museum spreekt ons vooral de iconische werken aan.
 
 **Heveel tijd besteden jullie hier ongeveer?** <br>
 Ik denk dat we hier ongeveer tot de middag blijven, dat gaat dan zon 2-3 uurtjes zijn
 
 **Is dit de eerste keer dat jullie het museum bezoeken?** <br>
-Ja zeker, het is ook onze eerste keer in Amsterdam
+Ja zeker, het is ook onze eerste keer in Amsterdam.
 
 **Van waar komen jullie?** <br>
 Spanje
@@ -108,7 +108,7 @@ Tijdens het boeken van onze trip hebben we al direct alle dingen die er te zien 
 Ik kom eigelijk om de nieuwste exposities te zien.
 
 **Wat spreekt jou het meeste aan?** <br>
-Alles. Is dat een goed antwoord? Echt gewoon alles
+Alles. Is dat een goed antwoord? Echt gewoon alles.
 
 **Hoeveel tijd besteed je hier ongeveer?** <br>
 Ik kan hier dagen rondlopen. Ik kom speciaal voor het museum naar hier, dus loop ik hier zo lang rond als ik wil. Ik ben hier nu ongeveer 2 uurtjes maar ik ga hier zeker nog enkele uren rondlopen.
@@ -120,7 +120,7 @@ Ik denk dat het nu de 5de keer zal zijn.
 Ik woon In Nederland net aan de Duitse grens.
 
 **Welk kunstwerk vind je het mooiste?** <br>
-Rembrandt zal toch wel mijn favoriete kunstenaar zijn die in het museum hangt
+Rembrandt zal toch wel mijn favoriete kunstenaar zijn die in het museum hangt.
 
 **Hoe heb je dit museum leren kennen?** <br>
 Ik kom vaak naar Amsterdam voor zakenreizen. Ooit werd ik op zo een zakenreis mee genomen naar het museum.
